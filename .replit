@@ -1,0 +1,2 @@
+language = "nix"
+run = "forever start bot.js"
